@@ -1,7 +1,7 @@
 # Sticky Notes
 
 - This project is an implementation of the app Sticky Notes in HTML, CSS and BootsTrap using Visual Studio.
-- This project was a teamwork project within the programm Estival Experience 2017 organised by Pentalog Romania
+- This project was a teamwork project within the program Estival Experience 2017 organised by Pentalog Romania.
 
 The app looks like this:
 - The home page with login:
