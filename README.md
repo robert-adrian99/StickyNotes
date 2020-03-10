@@ -6,16 +6,16 @@
 The app looks like this:
 - The home page with login:
 
-<img src="images/HomePage.jpg" width="300">
+<img src="images/HomePage.jpg" width="500">
 
 - The home page in app:
 
-<img src="images/StickyNotes.jpg" width="300">
+<img src="images/StickyNotes.jpg" width="500">
 
 - The help page:
 
-<img src="images/HelpPage.jpg" width="300">
+<img src="images/HelpPage.jpg" width="500">
 
 - The about page (where is listed the team):
 
-<img src="images/AboutPage.jpg" width="300">
+<img src="images/AboutPage.jpg" width="500">
